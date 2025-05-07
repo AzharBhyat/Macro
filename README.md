@@ -3,7 +3,7 @@
 A simple Python GUI to record, save, and run keyboard macros.
 
 <p align="center">
-  <img src="./screenshot.png" alt="Macro GUI" width="500"/>
+  <img src="./screenshot.png" alt="Macro GUI" width="250"/>
 </p>
 
 ## Features
