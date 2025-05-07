@@ -18,7 +18,7 @@ A simple Python GUI to record, save, and run keyboard macros.
 Install the required package:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 > `tkinter` is required but comes preinstalled with most Python distributions.
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ---
