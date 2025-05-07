@@ -1,13 +1,3 @@
-Sure! Here's the updated **`requirements.txt`**:
-
-```txt
-keyboard==0.13.5
-```
-
-And here's the revised **`README.md`**:
-
----
-
 # Macro
 
 A simple Python GUI to record, save, and run keyboard macros.
